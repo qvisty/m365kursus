@@ -11,54 +11,54 @@ title: "6. Word, Excel og PowerPoint"
 |-----|-----------|-----------|
 | **Word** | Dokumenter og tekst | Breve, referater, vejledninger |
 | **Excel** | Tal og tabeller | Budgetter, lister, beregninger |
-| **PowerPoint** | Praesentationer | Undervisning, moeder, oplaeeg |
+| **PowerPoint** | Præsentationer | Undervisning, møder, oplæg |
 
-## Aaben en app
+## Åben en app
 
-Du kan bruge apps paa to maader:
+Du kan bruge apps på to måder:
 
 ### Online (i browseren)
-1. Gaa til [portal.office.com](https://portal.office.com)
-2. Klik paa Word, Excel eller PowerPoint i app-launcheren
-3. Vaelg **"Nyt tomt dokument"**
+1. Gå til [portal.office.com](https://portal.office.com)
+2. Klik på Word, Excel eller PowerPoint i app-launcheren
+3. Vælg **"Nyt tomt dokument"**
 
-### Paa computeren (installeret)
-1. Aaben programmet fra Start-menuen
-2. Vaelg **"Nyt tomt dokument"**
+### På computeren (installeret)
+1. Åben programmet fra Start-menuen
+2. Vælg **"Nyt tomt dokument"**
 
 ## Word: De vigtigste funktioner
 
-- **Skrifttype og stoerrelse:** Marker tekst og vaelg i vaerktoejslinjen
+- **Skrifttype og størrelse:** Marker tekst og vælg i værktøjslinjen
 - **Fed, kursiv, understreget:** Brug knapperne eller Ctrl+B, Ctrl+I, Ctrl+U
-- **Punktliste:** Klik paa liste-ikonet i vaerktoejslinjen
+- **Punktliste:** Klik på liste-ikonet i værktøjslinjen
 - **Gem:** Ctrl+S (gemmer automatisk i OneDrive hvis du er logget ind)
 
 ## Excel: De vigtigste funktioner
 
-- **Celler:** Klik i en celle og skriv — tryk Enter for at bekraefte
-- **SUM-formel:** Skriv `=SUM(A1:A10)` for at laegge tal sammen
-- **Sortér:** Marker data, klik "Sortér og filtrér" i vaerktoejslinjen
-- **Formatér tal:** Hoejreklik paa celler og vaelg "Formatér celler"
+- **Celler:** Klik i en celle og skriv — tryk Enter for at bekræfte
+- **SUM-formel:** Skriv `=SUM(A1:A10)` for at lægge tal sammen
+- **Sortér:** Marker data, klik "Sortér og filtrér" i værktøjslinjen
+- **Formatér tal:** Højreklik på celler og vælg "Formatér celler"
 
 ## PowerPoint: De vigtigste funktioner
 
-- **Ny slide:** Klik "Ny slide" i vaerktoejslinjen
-- **Layout:** Vaelg mellem titel, indhold, billede osv.
-- **Indsaet billede:** Klik "Indsaet" > "Billeder"
-- **Start praesentation:** Tryk F5 eller klik "Slideshow"
+- **Ny slide:** Klik "Ny slide" i værktøjslinjen
+- **Layout:** Vælg mellem titel, indhold, billede osv.
+- **Indsæt billede:** Klik "Indsæt" > "Billeder"
+- **Start præsentation:** Tryk F5 eller klik "Slideshow"
 
-## Oevelser
+## Øvelser
 
-1. Aaben Word online og skriv en kort tekst (3-4 linjer). Gem den.
-2. Aaben Excel online og lav en liste med 5 navne og telefonnumre
-3. Aaben PowerPoint online og lav 2 slides: en titelside og en med tekst
+1. Åben Word online og skriv en kort tekst (3-4 linjer). Gem den.
+2. Åben Excel online og lav en liste med 5 navne og telefonnumre
+3. Åben PowerPoint online og lav 2 slides: en titelside og en med tekst
 4. Find alle tre dokumenter i OneDrive bagefter
 
 ## Nyttige links
 
-- [Word-hjaelp](https://support.microsoft.com/da-dk/word) — Officiel guide
-- [Excel-hjaelp](https://support.microsoft.com/da-dk/excel) — Officiel guide
-- [PowerPoint-hjaelp](https://support.microsoft.com/da-dk/powerpoint) — Officiel guide
+- [Word-hjælp](https://support.microsoft.com/da-dk/word) — Officiel guide
+- [Excel-hjælp](https://support.microsoft.com/da-dk/excel) — Officiel guide
+- [PowerPoint-hjælp](https://support.microsoft.com/da-dk/powerpoint) — Officiel guide
 
 ---
 
