@@ -1,7 +1,5 @@
 # M365 Kursus - Emmerske Efterskole
 
-![Emmerske Efterskole](assets/logo.png)
-
 Kursus i Microsoft 365 for medarbejdere på Emmerske Efterskole.
 
 ## Vejledninger
