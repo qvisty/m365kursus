@@ -20,5 +20,8 @@
   "homepage": "https://github.com/qvisty/m365kursus#readme",
   "dependencies": {
     "docx": "^9.6.1"
+  },
+  "devDependencies": {
+    "create-docx": "^1.0.0"
   }
 }
