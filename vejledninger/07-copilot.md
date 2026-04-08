@@ -58,4 +58,4 @@ Copilot er Microsofts AI-assistent der er indbygget i M365. Den kan hjaelpe dig 
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

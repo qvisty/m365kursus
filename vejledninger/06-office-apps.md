@@ -62,4 +62,4 @@ Du kan bruge apps paa to maader:
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

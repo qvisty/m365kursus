@@ -57,4 +57,4 @@ Med M365-apps paa din telefon kan du:
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

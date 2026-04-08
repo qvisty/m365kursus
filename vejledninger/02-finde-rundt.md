@@ -52,4 +52,4 @@ Naar du logger ind paa [portal.office.com](https://portal.office.com), lander du
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

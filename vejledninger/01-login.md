@@ -43,4 +43,4 @@ Hvis du bliver spurgt "Bliv logget ind?" — klik **Ja** paa din egen computer, 
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

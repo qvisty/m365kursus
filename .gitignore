@@ -1,2 +1,4 @@
 node_modules/
 .planning/
+_site/
+.jekyll-cache/

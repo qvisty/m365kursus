@@ -55,4 +55,4 @@ OneDrive er din personlige filplads i skyen. Dine filer er tilgaengelige fra all
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

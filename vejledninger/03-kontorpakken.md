@@ -47,4 +47,4 @@ Paa Mac kan du ogsaa installere fra portal.office.com, eller du kan hente apps e
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

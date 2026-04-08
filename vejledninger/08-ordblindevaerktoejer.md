@@ -67,4 +67,4 @@ Word og Outlook tjekker automatisk stavning og grammatik:
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

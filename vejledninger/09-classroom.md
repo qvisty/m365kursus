@@ -63,4 +63,4 @@ Microsoft Teams har en speciel undervisnings-tilstand der fungerer som et klasse
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)

@@ -63,4 +63,4 @@ Eller start et hurtigt opkald:
 
 ---
 
-[Tilbage til oversigt](../README.md)
+[Tilbage til oversigt]({{ site.baseurl }}/)
