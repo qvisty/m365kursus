@@ -9,18 +9,20 @@ Kursus i Microsoft 365 for medarbejdere på Emmerske Efterskole.
 
 ## Vejledninger
 
-| Nr. | Emne | Vejledning |
-|-----|------|------------|
-| 1 | Login til 365 | [Læs online](vejledninger/01-login) |
-| 2 | Finde rundt i 365 | [Læs online](vejledninger/02-finde-rundt) |
-| 3 | Installer kontorpakken hjemme | [Læs online](vejledninger/03-kontorpakken) |
-| 4 | Teams | [Læs online](vejledninger/04-teams) |
-| 5 | OneDrive | [Læs online](vejledninger/05-onedrive) |
-| 6 | Word, Excel og PowerPoint | [Læs online](vejledninger/06-office-apps) |
-| 7 | Copilot | [Læs online](vejledninger/07-copilot) |
-| 8 | Ordblindeværktøjer | [Læs online](vejledninger/08-ordblindeværktøjer) |
-| 9 | Classroom | [Læs online](vejledninger/09-classroom) |
-| 10 | Mobiltelefon | [Læs online](vejledninger/10-mobiltelefon) |
+| Nr. | Emne | Word |
+|-----|------|:----:|
+| 1 | [Login til 365](vejledninger/01-login) | [📥 Word](vejledninger/docx/01-login.docx) |
+| 2 | [Finde rundt i 365](vejledninger/02-finde-rundt) | [📥 Word](vejledninger/docx/02-finde-rundt.docx) |
+| 3 | [Installer kontorpakken hjemme](vejledninger/03-kontorpakken) | [📥 Word](vejledninger/docx/03-kontorpakken.docx) |
+| 4 | [Teams](vejledninger/04-teams) | [📥 Word](vejledninger/docx/04-teams.docx) |
+| 5 | [OneDrive](vejledninger/05-onedrive) | [📥 Word](vejledninger/docx/05-onedrive.docx) |
+| 6 | [Word, Excel og PowerPoint](vejledninger/06-office-apps) | [📥 Word](vejledninger/docx/06-office-apps.docx) |
+| 7 | [Copilot](vejledninger/07-copilot) | [📥 Word](vejledninger/docx/07-copilot.docx) |
+| 8 | [Ordblindeværktøjer](vejledninger/08-ordblindeværktøjer) | [📥 Word](vejledninger/docx/08-ordblindeværktøjer.docx) |
+| 9 | [Classroom](vejledninger/09-classroom) | [📥 Word](vejledninger/docx/09-classroom.docx) |
+| 10 | [Mobiltelefon](vejledninger/10-mobiltelefon) | [📥 Word](vejledninger/docx/10-mobiltelefon.docx) |
+
+**Download alle Word-filer:** [📥 m365-alle-vejledninger.zip](vejledninger/docx/m365-alle-vejledninger.zip)
 
 ## Om kurset
 
