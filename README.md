@@ -2,7 +2,7 @@
 
 ![Emmerske Efterskole](assets/logo.png)
 
-Begynderkursus i Microsoft 365 for medarbejdere på Emmerske Efterskole.
+Kursus i Microsoft 365 for medarbejdere på Emmerske Efterskole.
 
 ## Vejledninger
 
