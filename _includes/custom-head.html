@@ -1,0 +1,11 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var links = document.querySelectorAll('a[href]');
+  links.forEach(function(link) {
+    if (!link.getAttribute('href').startsWith('#')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>

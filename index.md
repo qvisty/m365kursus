@@ -3,7 +3,7 @@ layout: home
 title: "M365 Kursus - Emmerske Efterskole"
 ---
 
-![Emmerske Efterskole](assets/logo.png)
+![Emmerske Efterskole](https://www.efterskolerne.dk/media/5cvkunsz/emmerske-efterskole-logo.jpg)
 
 Begynderkursus i Microsoft 365 for medarbejdere paa Emmerske Efterskole.
 
