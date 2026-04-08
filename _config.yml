@@ -1,0 +1,17 @@
+title: M365 Kursus - Emmerske Efterskole
+description: Begynderkursus i Microsoft 365 for medarbejdere
+theme: minima
+baseurl: "/m365kursus"
+url: "https://qvisty.github.io"
+
+header_pages:
+  - vejledninger/01-login.md
+  - vejledninger/02-finde-rundt.md
+  - vejledninger/03-kontorpakken.md
+  - vejledninger/04-teams.md
+  - vejledninger/05-onedrive.md
+  - vejledninger/06-office-apps.md
+  - vejledninger/07-copilot.md
+  - vejledninger/08-ordblindevaerktoejer.md
+  - vejledninger/09-classroom.md
+  - vejledninger/10-mobiltelefon.md

@@ -1,0 +1,30 @@
+# M365 Kursus - Emmerske Efterskole
+
+![Emmerske Efterskole](assets/logo.png)
+
+Begynderkursus i Microsoft 365 for medarbejdere paa Emmerske Efterskole.
+
+## Vejledninger
+
+| Nr. | Emne | Vejledning | Word |
+|-----|------|------------|------|
+| 1 | Login til 365 | [Laes online](vejledninger/01-login.md) | [Download](docs/01-login-til-365.docx) |
+| 2 | Finde rundt i 365 | [Laes online](vejledninger/02-finde-rundt.md) | [Download](docs/02-finde-rundt-i-365.docx) |
+| 3 | Installer kontorpakken hjemme | [Laes online](vejledninger/03-kontorpakken.md) | [Download](docs/03-installer-kontorpakken.docx) |
+| 4 | Teams | [Laes online](vejledninger/04-teams.md) | [Download](docs/04-teams.docx) |
+| 5 | OneDrive | [Laes online](vejledninger/05-onedrive.md) | [Download](docs/05-onedrive.docx) |
+| 6 | Word, Excel og PowerPoint | [Laes online](vejledninger/06-office-apps.md) | [Download](docs/06-word-excel-powerpoint.docx) |
+| 7 | Copilot | [Laes online](vejledninger/07-copilot.md) | [Download](docs/07-copilot.docx) |
+| 8 | Ordblindevaerktojer | [Laes online](vejledninger/08-ordblindevaerktoejer.md) | [Download](docs/08-ordblindevaerktojer.docx) |
+| 9 | Classroom | [Laes online](vejledninger/09-classroom.md) | [Download](docs/09-classroom.docx) |
+| 10 | Mobiltelefon | [Laes online](vejledninger/10-mobiltelefon.md) | [Download](docs/10-mobiltelefon.docx) |
+
+## Om kurset
+
+Dette kursus er designet til medarbejdere paa Emmerske Efterskole som skal i gang med Microsoft 365. Hver vejledning er en kort, praktisk guide med trin-for-trin instruktioner og oevelser.
+
+**Mail-format:** initialer@eeskole.dk (eks: jq@eeskole.dk)
+
+---
+
+*Emmerske Efterskole - 2026*
